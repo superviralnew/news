@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://superviralnew.github.io/news/sitemap.xml
